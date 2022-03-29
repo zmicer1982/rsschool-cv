@@ -21,9 +21,10 @@ With a successful 18 years of professional experience in the telecommunications 
 
 ##skills and proficiency:
 
-- JavaScript syntaxis
+- JavaScript syntax [example](https://jsbin.com/vixilixoba/edit?js,console)
 - Git, GitHub
-- VS Code
+- VS Code  
+
 
 ---
 
@@ -37,5 +38,5 @@ With a successful 18 years of professional experience in the telecommunications 
 
 - belarussian
 - russian
-- [english/B2 - IELTS](https://drive.google.com/file/d/1Ov2lGm9fpbeCCmk4RfnuAQK7JP2khB_1/view?usp=sharing)
+- [english/B2 - IELTS](https://drive.google.com/file/d/1l1Yp3H2sM04qbtzcdjxp3EW0wNMpn_0q/view?usp=sharing)
 - [french/B2/C1 - TCF](https://drive.google.com/file/d/1Gxnq63HLszH0kNvj_WckPpLoMMz4he4_/view?usp=sharing)
