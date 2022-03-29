@@ -11,7 +11,7 @@
 ---
 
 - Location: Minsk, Belarus
-- Phone: +375295885467 +375336033711
+- Phone: +375295885467
 - E-mail: zmicerkolicer@gmail.com
 - GitHub: zmicer1982
 
