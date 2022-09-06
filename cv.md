@@ -15,7 +15,7 @@
 
 ## about me
 
-With a successful 18 years of professional experience in the telecommunications industry, based on higher education, I am constantly striving to set myself new challenges - economic education, certification of knowledge of languages. What's next? With interest and desire to achieve good results, I accept a new challenge.
+With a successful 19 years of professional experience in the telecommunications industry, based on higher education, I am constantly striving to set myself new challenges - economic education, certification of knowledge of languages. What's next? With interest and desire to achieve good results, I accept a new challenge.
 
 ## skills and proficiency:
 
