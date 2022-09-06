@@ -34,6 +34,5 @@ With a successful 19 years of professional experience in the telecommunications 
 ## languages
 
 - belarussian
-- russian
 - [english/B2 - IELTS](https://drive.google.com/file/d/1l1Yp3H2sM04qbtzcdjxp3EW0wNMpn_0q/view?usp=sharing)
 - [french/B2/C1 - TCF](https://drive.google.com/file/d/1Gxnq63HLszH0kNvj_WckPpLoMMz4he4_/view?usp=sharing)
